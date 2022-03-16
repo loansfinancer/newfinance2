@@ -1622,19 +1622,19 @@ footer p {
 		right: 6px;
 	}
 	.top-bar{
-		display: none;
+		display: block;
 	}
 	.navbar-expand-lg.top-nav .navbar-nav .nav-link.active::before{
-		display: none;
+		display: block;
 	}
 	.navbar-expand-lg.top-nav .navbar-nav .nav-link.active::after{
-		display: none;
+		display: block;
 	}
 	.navbar-expand-lg.top-nav .navbar-nav .nav-link::before{
-		display: none;
+		display: block;
 	}
 	.navbar-expand-lg.top-nav .navbar-nav .nav-link::after{
-		display: none;
+		display: block;
 	}
 	.item-pro ul li{
 		font-size: 14px;
@@ -1670,19 +1670,19 @@ footer p {
 		font-size: 14px;
 	}
 	.top-bar{
-		display: none;
+		display: block;
 	}
 	.navbar-expand-lg.top-nav .navbar-nav .nav-link.active::before{
-		display: none;
+		display: block;
 	}
 	.navbar-expand-lg.top-nav .navbar-nav .nav-link.active::after{
-		display: none;
+		display: block;
 	}
 	.navbar-expand-lg.top-nav .navbar-nav .nav-link::before{
-		display: none;
+		display: block;
 	}
 	.navbar-expand-lg.top-nav .navbar-nav .nav-link::after{
-		display: none;
+		display: block;
 	}
 }
 
@@ -1721,16 +1721,16 @@ footer p {
 		display: none;
 	}
 	.navbar-expand-lg.top-nav .navbar-nav .nav-link.active::before{
-		display: none;
+		display: block;
 	}
 	.navbar-expand-lg.top-nav .navbar-nav .nav-link.active::after{
-		display: none;
+		display: block;
 	}
 	.navbar-expand-lg.top-nav .navbar-nav .nav-link::before{
-		display: none;
+		display: block;
 	}
 	.navbar-expand-lg.top-nav .navbar-nav .nav-link::after{
-		display: none;
+		display: block;
 	}
 	.about-main h2{
 		font-size: 26px;
